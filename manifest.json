@@ -1,0 +1,11 @@
+{
+  "manifest_version":2,
+  "name": "zag0gi",
+  "description": "just tor to web",
+  "version":"1.0.0.0",
+  "browser_action":{
+    "default_icon":"tor.png",
+    "default_popup":"popup.html"},
+
+  "permissions":[]
+  }
